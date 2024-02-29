@@ -1,4 +1,4 @@
-#include <stdio.h>
+#w10include <stdio.h>
 
 /**
 * main - causes an infinite loop
