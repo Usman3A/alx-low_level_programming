@@ -1,8 +1,8 @@
-,#include "main.h"
+#include "main.h"
 
 /**
  * more_numbers - nmbr fct
- * usman file
+ * Usman Sirajo
  * Return: no return
  */
 
